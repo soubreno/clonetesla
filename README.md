@@ -1,7 +1,14 @@
-# clonetesla
+💻 Projeto
+------------
 
-Fala Galera.. Este é um pequeno projetinho inspirado no site da grande Tesla.
+Projeto realizado durante o módulo HTML5 e CSS3 do curso FullStack da B7Web.
 
-Inspirado nela, criei a Devsla :) 
+Lembrando que é apenas para fins de estudo e foram utilizados somentes as tecnologias desse módulo.
 
-Espero que gostem!
+
+
+🚀 Linguagens
+-------------
+
+<li>HTML5</li>
+<li>CSS3</li>
