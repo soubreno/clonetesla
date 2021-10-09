@@ -1,4 +1,4 @@
-💻 Projeto
+💻 Projeto Tesla
 ------------
 
 Projeto realizado durante o módulo HTML5 e CSS3 do curso FullStack da B7Web.
@@ -12,3 +12,11 @@ Lembrando que é apenas para fins de estudo e foram utilizados somentes as tecno
 
 <li>HTML5</li>
 <li>CSS3</li>
+
+
+🔖 Layout
+----------
+
+Feito por Breno Marques.
+
+Design inspirado no Site da Tesla.
